@@ -5,8 +5,7 @@
 
 A Home Assistant dashboard card that draws a classic hand-operated tournament
 scoreboard and fills it with live PGA Tour scoring. Each player's running score
-is posted hole by hole, red under par and green at or over par, just like the
-big boards beside the 18th green.
+is posted hole by hole, red under par and green at or over par, the way God intended.
 
 ![Live leaderboard](images/live.png)
 
